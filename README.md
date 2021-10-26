@@ -1,0 +1,10 @@
+-I used an updated version of Swift.
+-UIKit for design.
+-Alamofire for apis.
+-Extensions.
+-Constants.
+-I create a single class(WebServices) and I create one function for all apis calls.
+-I'm using swift codable(updated one for parsing data).
+-For assets i'm creating a folder according to the screen so we can find assets easily.
+-I'm using SDWebImage to download images. It will not affect the scrolling of the collection and tableview.
+-I used MVVM for design patterns
